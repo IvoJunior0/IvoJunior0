@@ -1,27 +1,31 @@
 <div align="center">
-  <img src="images/tyler.png" height="150">
+  <img src="images/tyler.png">
 </div>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ivo-junior-a934a8312/" target="_blank">
-    <img height="25" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge">
+    <img height="25" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"/>
   </a>
   <a href="https://www.instagram.com/ivo_jr.s/" target="_blank">
-    <img height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://discordapp.com/users/656164509286924341">
+    <img height="25" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://mail.google.com/mail/u/ivodossantossoaresjunior@gmail.com/?view=cm&to=ivodossantossoaresjunior@gmail.com" target="_blank">
+    <img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ivojunior0"></img>
-</div>
+<h2 align="left">👩‍💻 Sobre mim*</h3>
 
 ###
 
-<p align="left">👦 Sou estudante do Curso Técnico em Informática do IFMA Campus Açailândia com interesse na área de programação</p>
+<p align="left">Me chamo Ivo Junior e sou estudante de programação<br><br>- 🌙 Foco em desenvolvimento web<br>- 📚 Estudo no IFMA - Campus Açailândia (Técnico em Informática)<br>- 💫 Design, Música e Arte como passatempo</p>
 
 ###
 
