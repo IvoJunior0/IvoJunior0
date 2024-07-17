@@ -1,4 +1,6 @@
-<img src="images/tyler.png">
+<div align="center">
+  <img src="images/tyler.png" style="width: 70%">
+</div>
 
 ###
 
