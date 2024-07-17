@@ -1,4 +1,4 @@
-<h1 align="center">Olá, me chamo Ivo*~</h1>
+<img src="images/tyler.png">
 
 ###
 
