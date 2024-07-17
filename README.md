@@ -1,5 +1,22 @@
 <div align="center">
-  <img src="images/tyler.png">
+  <img src="images/tyler.png" height="150">
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ivo-junior-a934a8312/" target="_blank">
+    <img height="25" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge">
+  </a>
+  <a href="https://www.instagram.com/ivo_jr.s/" target="_blank">
+    <img height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ivojunior0"></img>
 </div>
 
 ###
