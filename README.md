@@ -60,7 +60,7 @@
 
 ###
 
-<h2 align="left">📚Meus interesses*</h2>
+<h2 align="left">📚 Planos de estudo futuros*</h2>
 
 ###
 
