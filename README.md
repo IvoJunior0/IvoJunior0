@@ -21,11 +21,12 @@
 
 ###
 
-<h2 align="left">👩‍💻 Sobre mim*</h2>
+<h2 align="left">👨‍💻 Sobre mim*</h2>
 
 ###
 
-<p align="left">Me chamo Ivo Junior e sou estudante de programação<br><br>- 🌙 Foco em desenvolvimento web<br>- 📚 Estudo no IFMA - Campus Açailândia (Técnico em Informática)<br>- 💫 Design, Música e Arte como passatempo</p>
+<p align="left">Me chamo Ivo Junior e sou estudante de programação no IFMA Campus Açailândia. Meus estudos são focados no desenvolvimento de sistemas web e suas tecnologias (linguagens e frameworks). No futuro, desejo trabalhar na parte de backend utilizando Java com frameworks como Spring e afins.
+<br><br>- 🌙 Foco em desenvolvimento web<br>- 📚 Estudo no IFMA - Campus Açailândia (Técnico em Informática)<br>- 💫 Design, Música e Arte como passatempo</p>
 
 ###
 
@@ -57,6 +58,21 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/wordpress/wordpress-plain.svg" height="40" alt="wordpress"  />
   <img width="12" />
 </div>
+
+###
+
+
+###
+
+<h2>🙋 Soft Skills*</h2>
+
+###
+
+<p>
+- <b>Resolução de problemas</b>: tenho facilidade em analisar problemas e propor soluções. Desenvolvo diversos projetos de programação para solucionar problemas no contexto do IFMA.<br>
+- <b>Pensamento crítico</b>: analiso de forma cautelosa o contexto das situações. Reescrevo e leio muitos dos códigos de trabalhos meus e de colégas para conseguir a melhor perfomance e organização.<br>
+- <b>Criatividade</b>: gosto de pensar em soluções novas. Meu TCC, LupaSpace, tem diversos elementos para dinamizar seu uso aos usuários do campus, resolvendo um problema simples de forma interessante.<br>
+</p>
 
 ###
 
