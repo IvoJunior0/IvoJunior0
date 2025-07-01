@@ -38,10 +38,6 @@ Estudante do Curso Técnico em Informática no IFMA — Campus Açailândia com 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📌 Projeto em Destaque
-
-**LupaSpace** - Meu TCC: Um hub para facilitar a comunicação e divulgação de produções técnica dos alunos do IFMA Campus Açailândia.
-
 ###
 
 <h2 align="left">📈 Estatíticas*</h2>
