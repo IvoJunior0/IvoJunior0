@@ -1,103 +1,46 @@
-<div align="center">
-  <img src="images/tyler.png">
-</div>
+# Ivo Junior 👨‍💻
 
-###
+Desenvolvedor Web | Estudante de Informática | Entusiasta de Programação Competitiva
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ivo-junior-a934a8312/" target="_blank">
-    <img height="25" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"/>
-  </a>
-  <a href="https://www.instagram.com/ivo_jr.s/" target="_blank">
-    <img height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://discordapp.com/users/656164509286924341">
-    <img height="25" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://mail.google.com/mail/u/ivodossantossoaresjunior@gmail.com/?view=cm&to=ivodossantossoaresjunior@gmail.com" target="_blank">
-    <img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivo-junior-a934a8312/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ivo_jr.s/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/656164509286924341)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivodossantossoaresjunior@gmail.com)
 
-###
+## 🚀 Sobre Mim
 
-<h2 align="left">👨‍💻 Sobre mim*</h2>
+Estudante do Curso Técnico em Informática no IFMA — Campus Açailândia com foco em desenvolvimento web e programação competitiva. Apaixonado por transformar ideias em código e resolver problemas complexos. Nos meus momentos livres, me dedico a cinema, música e arte no geral.
 
-###
-
-<p align="left">Me chamo Ivo Junior e sou estudante de programação no IFMA Campus Açailândia. Meus estudos são focados no desenvolvimento de sistemas web e suas tecnologias (linguagens e frameworks). No futuro, desejo trabalhar na parte de backend utilizando Java com frameworks como Spring e afins.
-<br><br>- 🌙 Foco em desenvolvimento web<br>- 📚 Estudo no IFMA - Campus Açailândia (Técnico em Informática)<br>- 💫 Design, Música e Arte como passatempo</p>
-
-###
-
-<h2 align="left">🔨 Linguagens e ferramentas*</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/firebase/firebase-original.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/reactrouter/reactrouter-original.svg" height="40" alt="reactrouter"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cplusplus/cplusplus-plain.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/wordpress/wordpress-plain.svg" height="40" alt="wordpress"  />
-  <img width="12" />
-</div>
-
-###
+## 🛠 Tecnologias
 
 
-###
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<h2>🙋 Soft Skills*</h2>
+## 🧠 Habilidades
 
-###
+- **Resolução de Problemas**: Abordagem analítica para desafios complexos
+- **Pensamento Crítico**: Código limpo e otimizado
+- **Criatividade**: Soluções inovadoras para problemas reais
+- **Trabalho em Equipe**: Colaboração eficiente em projetos 
 
-<p>
-- <b>Resolução de problemas</b>: tenho facilidade em analisar problemas e propor soluções. Desenvolvo diversos projetos de programação para solucionar problemas no contexto do IFMA.<br>
-- <b>Pensamento crítico</b>: analiso de forma cautelosa o contexto das situações. Reescrevo e leio muitos dos códigos de trabalhos meus e de colégas para conseguir a melhor perfomance e organização.<br>
-- <b>Criatividade</b>: gosto de pensar em soluções novas. Meu TCC, LupaSpace, tem diversos elementos para dinamizar seu uso aos usuários do campus, resolvendo um problema simples de forma interessante.<br>
-</p>
+## 🌱 Aprendendo Atualmente
 
-###
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h2 align="left">📚 Planos de estudo futuros*</h2>
+## 📌 Projeto em Destaque
 
-###
-
-<div align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/spring/spring-original.svg" height="40"/> 
-    <img width="12" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/php/php-original.svg" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linux/linux-original.svg" height="40"/> 
-    <img width="12" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-plain.svg" height="40"/> 
-    <img width="12" />
-</div>
-<div>
-<p align="left">- 💻 Backend<br>- 🗄 Banco de dados</p>
-</div>
-
-###
-
-<div align="left">
-
-</div>
+**LupaSpace** - Meu TCC: Um hub para facilitar a comunicação e divulgação de produções técnica dos alunos do IFMA Campus Açailândia.
 
 ###
 
